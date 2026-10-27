@@ -1,0 +1,7 @@
+node_modules/
+.vercel/
+.DS_Store
+*.log
+
+# Stitch 원본 압축본 (stitch-export/에 이미 풀려 있음)
+*.zip
